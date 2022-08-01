@@ -1,2 +1,2 @@
-# dive-into-the-data-lake
+# Dive into the Data Lake!
 Code samples for the latest Data Lake tech stack
